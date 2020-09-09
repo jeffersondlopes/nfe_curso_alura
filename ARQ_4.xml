@@ -1,0 +1,323 @@
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<NFe>
+		<infNFe Id="NFe35190852834181000155550010001252201822002634" versao="4.00">
+			<ide>
+				<cUF>35</cUF>
+				<cNF>82200263</cNF>
+				<natOp>VENDA DE MERCADORIAS</natOp>
+				<mod>55</mod>
+				<serie>1</serie>
+				<nNF>125220</nNF>
+				<dhEmi>2019-08-22T16:55:10-03:00</dhEmi>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>3505708</cMunFG>
+				<tpImp>1</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>4</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>1</indPres>
+				<procEmi>0</procEmi>
+				<verProc>1.0</verProc>
+			</ide>
+			<emit>
+				<CNPJ>52834181000155</CNPJ>
+				<xNome>JAPAUTO COMERCIO DE MOTOCICLETAS LTDA</xNome>
+				<xFant>JAPAUTO - ALPHAVILLE</xFant>
+				<enderEmit>
+					<xLgr>ALAMEDA ARAGUAIA</xLgr>
+					<nro>1800</nro>
+					<xBairro>ALPHAVILLE INDUSTRIAL</xBairro>
+					<cMun>3505708</cMun>
+					<xMun>BARUERI</xMun>
+					<UF>SP</UF>
+					<CEP>06455000</CEP>
+					<cPais>1058</cPais>
+					<fone>1141965040</fone>
+				</enderEmit>
+				<IE>206019381116</IE>
+				<CRT>3</CRT>
+			</emit>
+			<dest>
+				<CPF>21865931810</CPF>
+				<xNome>JEFFERSON DIEGO LOPES</xNome>
+				<enderDest>
+					<xLgr>RUA ANA ZOZI TONI</xLgr>
+					<nro>82</nro>
+					<xCpl>APTO.14 BL.1</xCpl>
+					<xBairro>PRESIDENTE ALTINO</xBairro>
+					<cMun>3534401</cMun>
+					<xMun>OSASCO</xMun>
+					<UF>SP</UF>
+					<CEP>06210050</CEP>
+					<cPais>1058</cPais>
+					<fone>11979885100</fone>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<email>jeffersondlopes@gmail.com</email>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>90401KRMR20</cProd>
+					<cEAN>SEM GTIN</cEAN>
+					<xProd>ARRUELA 12MM</xProd>
+					<NCM>73182200</NCM>
+					<CEST>0199900</CEST>
+					<CFOP>5102</CFOP>
+					<uCom>PC</uCom>
+					<qCom>1.0000</qCom>
+					<vUnCom>5.5800000000</vUnCom>
+					<vProd>5.58</vProd>
+					<cEANTrib>SEM GTIN</cEANTrib>
+					<uTrib>PC</uTrib>
+					<qTrib>1.0000</qTrib>
+					<vUnTrib>5.5800000000</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>1.49</vTotTrib>
+					<ICMS>
+						<ICMS00>
+							<orig>0</orig>
+							<CST>00</CST>
+							<modBC>3</modBC>
+							<vBC>5.58</vBC>
+							<pICMS>18.00</pICMS>
+							<vICMS>1.00</vICMS>
+						</ICMS00>
+					</ICMS>
+					<PIS>
+						<PISAliq>
+							<CST>01</CST>
+							<vBC>5.58</vBC>
+							<pPIS>1.6500</pPIS>
+							<vPIS>0.09</vPIS>
+						</PISAliq>
+					</PIS>
+					<COFINS>
+						<COFINSAliq>
+							<CST>01</CST>
+							<vBC>5.58</vBC>
+							<pCOFINS>7.6000</pCOFINS>
+							<vCOFINS>0.42</vCOFINS>
+						</COFINSAliq>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="2">
+				<prod>
+					<cProd>J-00897</cProd>
+					<cEAN>SEM GTIN</cEAN>
+					<xProd>LIMPA BICO INJETOR MOTO</xProd>
+					<NCM>38112190</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>PC</uCom>
+					<qCom>1.0000</qCom>
+					<vUnCom>45.0000000000</vUnCom>
+					<vProd>45.00</vProd>
+					<cEANTrib>SEM GTIN</cEANTrib>
+					<uTrib>PC</uTrib>
+					<qTrib>1.0000</qTrib>
+					<vUnTrib>45.0000000000</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>8.24</vTotTrib>
+					<ICMS>
+						<ICMS00>
+							<orig>0</orig>
+							<CST>00</CST>
+							<modBC>3</modBC>
+							<vBC>45.00</vBC>
+							<pICMS>18.00</pICMS>
+							<vICMS>8.10</vICMS>
+						</ICMS00>
+					</ICMS>
+					<PIS>
+						<PISAliq>
+							<CST>01</CST>
+							<vBC>45.00</vBC>
+							<pPIS>1.6500</pPIS>
+							<vPIS>0.74</vPIS>
+						</PISAliq>
+					</PIS>
+					<COFINS>
+						<COFINSAliq>
+							<CST>01</CST>
+							<vBC>45.00</vBC>
+							<pCOFINS>7.6000</pCOFINS>
+							<vCOFINS>3.42</vCOFINS>
+						</COFINSAliq>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="3">
+				<prod>
+					<cProd>J-00886</cProd>
+					<cEAN>SEM GTIN</cEAN>
+					<xProd>KIT LUBRIFICACAO SCOOTER STAFF</xProd>
+					<NCM>38249941</NCM>
+					<CFOP>5102</CFOP>
+					<uCom>PC</uCom>
+					<qCom>1.0000</qCom>
+					<vUnCom>41.6500000000</vUnCom>
+					<vProd>41.65</vProd>
+					<cEANTrib>SEM GTIN</cEANTrib>
+					<uTrib>PC</uTrib>
+					<qTrib>1.0000</qTrib>
+					<vUnTrib>41.6500000000</vUnTrib>
+					<indTot>1</indTot>
+					<comb>
+						<cProdANP>620505001</cProdANP>
+						<descANP>OUTROS OLEOS LUBRIFICANTES AUTOMOTIVOS</descANP>
+						<UFCons>SP</UFCons>
+					</comb>
+				</prod>
+				<imposto>
+					<vTotTrib>6.75</vTotTrib>
+					<ICMS>
+						<ICMS00>
+							<orig>0</orig>
+							<CST>00</CST>
+							<modBC>3</modBC>
+							<vBC>41.65</vBC>
+							<pICMS>18.00</pICMS>
+							<vICMS>7.50</vICMS>
+						</ICMS00>
+					</ICMS>
+					<PIS>
+						<PISAliq>
+							<CST>01</CST>
+							<vBC>41.65</vBC>
+							<pPIS>1.6500</pPIS>
+							<vPIS>0.69</vPIS>
+						</PISAliq>
+					</PIS>
+					<COFINS>
+						<COFINSAliq>
+							<CST>01</CST>
+							<vBC>41.65</vBC>
+							<pCOFINS>7.6000</pCOFINS>
+							<vCOFINS>3.17</vCOFINS>
+						</COFINSAliq>
+					</COFINS>
+				</imposto>
+			</det>
+			<det nItem="4">
+				<prod>
+					<cProd>31917KPH901</cProd>
+					<cEAN>SEM GTIN</cEAN>
+					<xProd>VELA CPR7EA-9</xProd>
+					<NCM>85111000</NCM>
+					<CEST>0105400</CEST>
+					<CFOP>5405</CFOP>
+					<uCom>PC</uCom>
+					<qCom>1.0000</qCom>
+					<vUnCom>68.8900000000</vUnCom>
+					<vProd>68.89</vProd>
+					<cEANTrib>SEM GTIN</cEANTrib>
+					<uTrib>PC</uTrib>
+					<qTrib>1.0000</qTrib>
+					<vUnTrib>68.8900000000</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>24.23</vTotTrib>
+					<ICMS>
+						<ICMS60>
+							<orig>0</orig>
+							<CST>60</CST>
+						</ICMS60>
+					</ICMS>
+					<PIS>
+						<PISNT>
+							<CST>04</CST>
+						</PISNT>
+					</PIS>
+					<COFINS>
+						<COFINSNT>
+							<CST>04</CST>
+						</COFINSNT>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>92.23</vBC>
+					<vICMS>16.60</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vFCP>0.00</vFCP>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vFCPST>0.00</vFCPST>
+					<vFCPSTRet>0.00</vFCPSTRet>
+					<vProd>161.12</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vIPIDevol>0.00</vIPIDevol>
+					<vPIS>1.52</vPIS>
+					<vCOFINS>7.01</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>161.12</vNF>
+					<vTotTrib>40.71</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>9</modFrete>
+				<vol/>
+			</transp>
+			<pag>
+				<detPag>
+					<tPag>99</tPag>
+					<vPag>161.12</vPag>
+				</detPag>
+			</pag>
+			<infAdic>
+				<infCpl>O.S. 179391, Modelo PCX 150, Chassi 9C2KF2200HR208182, KM 12389, Placa FOY-4418, Recepcionista DENNIEL DELONN BERNARDO MARTINS, Val. aprox. tributos R$ 16,91 federal e R$ 23,80 estadual, fonte: IBPT/empresometro.co, chave: 5A16F8, Receber: 4147/001A em 22/08/2019 de R$ 161,12</infCpl>
+				<obsCont xCampo="Doc 4147">
+					<xTexto>Ordem 001|Vlr R$ 238,88|Vencto 22/08/2019</xTexto>
+				</obsCont>
+				<obsCont xCampo="Doc 4147">
+					<xTexto>Ordem 001A|Vlr R$ 161,12|Vencto 22/08/2019</xTexto>
+				</obsCont>
+			</infAdic>
+		</infNFe>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+			<SignedInfo>
+				<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+				<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+				<Reference URI="#NFe35190852834181000155550010001252201822002634">
+					<Transforms>
+						<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+						<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+					</Transforms>
+					<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+					<DigestValue>t0BHs4tM6itrAKK+LelHtBW04n0=</DigestValue>
+				</Reference>
+			</SignedInfo>
+			<SignatureValue>USsz0TO+63nV2so6b7akhMo0s7pqkWyqayurTiQiznklIop8RMAGdK5PDpJ4ayJ3iKoBx9jGTASGctZehFQFIMWa/urGcsWH5Wh5aZk4REQ8Q1NCaInYtxGLm14G+WJb+irMiRYQBnnHD6cCiv0zBEOZXjxymXQvjj9K7oifQBHRjSQUscT/bury+KhIKPTApcoXwPWmRD9QFRBfTgW5qiN0pp3IfpX1pS6oIw+JU3yNYdQtVErVaPm8hr8wH9LicIfR4AkJFMfsX9vkT0/DzpaY4FrxreFnWlq1zbRMJhmB/tseMcu+vIzQp6/k0rZA5pu22ueVmq5ry9JJZSEbpw==</SignatureValue>
+			<KeyInfo>
+				<X509Data>
+					<X509Certificate>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</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</Signature>
+	</NFe>
+	<protNFe versao="4.00">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>SP_NFE_PL009_V4</verAplic>
+			<chNFe>35190852834181000155550010001252201822002634</chNFe>
+			<dhRecbto>2019-08-22T16:55:33-03:00</dhRecbto>
+			<nProt>135190611415248</nProt>
+			<digVal>t0BHs4tM6itrAKK+LelHtBW04n0=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>
